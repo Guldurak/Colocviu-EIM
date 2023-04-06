@@ -1,2 +1,3 @@
 # Colocviu-EIM
-# Colocviu-EIM;2D;2D;2D;2D
+# Asta este partea 1 din Colocviu
+
